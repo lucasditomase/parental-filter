@@ -1,11 +1,7 @@
 # Parental Filter
 
-## Privacy Policy
+## [Privacy Policy](privacy-policy.md)
 
-- This app does not collect user data.
+## [Terms of Service](terms-of-service.md)
 
-## Terms of Service
-
-- This app is the sole property of its developer.
-
-### [Customer Support](mailto:rescates.jarrazo-7u@icloud.com?subject=Parental%20Filter)
+## [Customer Support](support.md)
